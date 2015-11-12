@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[mrtgrady on the grid]]></title>
         <description><![CDATA[mrtgrady on the grid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mrtgrady1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 17:02:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 Nov 2015 17:14:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mrtgrady1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[sdfbsdfbsdf]]></title>
+            <description><![CDATA[<article><h1>sdfbsdfbsdf</h1><p>xdfsdfbsdfb sdfbsdfg sdfgbsdfgsdf sdfbsdbsd</p></article>]]></description>
+            <link>https://thegrid.ai/mrtgrady1/sdfbsdfbsdf/index.html</link>
+            <guid isPermaLink="false">bd44843e-93bb-4d92-bd84-bf31af40cbc4</guid>
+            <pubDate>Thu, 12 Nov 2015 17:13:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/mrtgrady1/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">51f8f901-97da-4b5c-a59e-cbfa2520bcaf</guid>
             <pubDate>Thu, 12 Nov 2015 17:02:26 GMT</pubDate>
         </item>
